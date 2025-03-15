@@ -70,7 +70,7 @@ This repository contains a collection of Machine Learning and Computer Vision pr
 - [Sondos Project](https://sondos-999.github.io/sondosproject/)
 
 ### 12. **نسمة عبدالسلام الجند:**
-- [GitHub Profile](https://github.com/nes209)
+- [All My Projects](https://github.com/nes209)
 
 ### 13. **شرف الفقيه:**
 - [Facial Landmark Detection](https://github.com/Sharaf-AlFaqeeh/FacialLandmarks-Detection.git)
@@ -81,8 +81,7 @@ This repository contains a collection of Machine Learning and Computer Vision pr
 - [All Projects](https://github.com/malakmohammedalyaremi/All-repo.git)
 
 ### 15. **أحمد شمسان:**
-- [GitHub Profile](https://github.com/Ahmed-Almikhlafi)
-- [LinkedIn](https://linkedin.com/in/ahmed-almikhlafi-99bb55349)
+- [[All My Projects](https://github.com/Ahmed-Almikhlafi)
 
 ### 16. **شهد عبدالسلام ناجي:**
 - [QR Reader](https://github.com/shahd200420/Qr-Reader)
