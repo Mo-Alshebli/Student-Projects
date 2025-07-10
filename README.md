@@ -22,10 +22,9 @@ This repository contains a collection of Machine Learning and Computer Vision pr
 - [GitHub Profile](https://github.com/alqabali2)
 
 ### 4. **أحمد الولي:**
-- [Face Attendance](https://github.com/AhmedH-Alwali/Face-Attendance.git)
-- [Pose Estimation](https://github.com/AhmedH-Alwali/Pose-Estimation.git)
-- [Image Editor](https://github.com/AhmedH-Alwali/image-editor_.git)
-- [OpenCV Utilization](https://github.com/AhmedH-Alwali/use-open-cv.git)
+- [Face Attendance](https://github.com/alwaliahmed/Face-Attendance-HW)
+- [Pose Estimation](https://github.com/alwaliahmed/Pose-Estimation)
+- [Image Editor & OpenCV Utilization](https://github.com/alwaliahmed/image-editor)
 
 ### 5. **غادة الهبوب:**
 - [Image Camera App](https://github.com/gha8e/Image-Camera-App)
